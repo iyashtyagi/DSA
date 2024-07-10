@@ -15,3 +15,10 @@ public class JavaBasics{
     }
 }
 
+// Comments
+
+// used to comment single line
+
+/*
+ * Used to comment multiple lines
+ */
